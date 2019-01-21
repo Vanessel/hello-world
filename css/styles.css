@@ -16,14 +16,14 @@ body{
 	width: 200px;
 	height: 200px;
 	position: absolute;
-	top:200;
-	left:200;
+	top:200px;
+	left:200px;
 }
 .bottom{
 	background-color: yellow;
 	width: 200px;
 	height: 200px;	
 	position: absolute;
-	top:400;
-	left:400;
+	top:400px;
+	left:400px;
 }
