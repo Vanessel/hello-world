@@ -1,3 +1,13 @@
 body{
 	background-color: lightblue;
 }
+
+.top{
+	background-color: rgb(183, 238, 144);
+}
+.middle{
+	background-color: rgb(97, 126, 76);
+}
+.bottom{
+	background-color: rgb(56, 73, 44);
+}
