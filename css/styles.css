@@ -1,19 +1,26 @@
 body{
 	background-color: lightblue;
+	width: 800px;
 }
 
 .top{
 	background-color: rgb(183, 238, 144);
 	width: 200px;
 	height: 200px;
+	border: 10px solid black;
+	padding: 20px;
 }
 .middle{
 	background-color: rgb(97, 126, 76);
 	width: 200px;
 	height: 200px;
+	border: 20px solid black; 
+	margin-left: 260px;
 }
 .bottom{
 	background-color: rgb(56, 73, 44);
 	width: 200px;
 	height: 200px;
+	border: 10px solid black;
+	margin-left: 510px;
 }
