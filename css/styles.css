@@ -9,7 +9,13 @@ h1{
 h2{
 	width: 20%;
 	background-color: white;
+	margin-left: auto;
+	margin-right:auto; 
 }
+.cloud-top{
+	position: absolute;
+}
+
 .container{
 	position: relative;
 	width: 700px;
