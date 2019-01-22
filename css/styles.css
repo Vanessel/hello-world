@@ -1,9 +1,14 @@
 body{
 	background-color: lightblue;
 	width: 800px;
+	text-align: center;
 }
 h1{
-	
+	background-color: white;
+}
+h2{
+	width: 20%;
+	background-color: white;
 }
 .container{
 	position: relative;
