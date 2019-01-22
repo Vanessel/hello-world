@@ -42,5 +42,9 @@ a{
 .middle-container {
   margin-top: 20px;
 }
+.skill-row{
+	margin: 100px auto 100px auto;
+	width: 50%;
+}
 
 .bottom {}
