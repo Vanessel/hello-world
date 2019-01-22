@@ -2,9 +2,10 @@ body{
 	background-color: lightblue;
 	width: 800px;
 	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
 }
 h1{
-
+font-family: 'ZCOOL KuaiLe', cursive;
 }
 h2{
 	width: 20%;
