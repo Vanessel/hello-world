@@ -1,8 +1,8 @@
 body {
-  background-color: lightblue;
-  width: 800px;
+  margin: 0;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
+  color: #40514E;
 }
 
 h1 {
@@ -20,6 +20,7 @@ h2 {
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
+	padding-bottom: 50px;
 }
 
 h3 {
@@ -42,9 +43,13 @@ a {
 .top {}
 
 .middle-container {
-  margin-top: 20px;
+  margin: 100px 0 100px 0;
 }
-
+.intro{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
 .skill-row {
   margin: 100px auto 100px auto;
   width: 50%;
@@ -56,14 +61,13 @@ a {
 
 .chilli-img {
   width: 25%;
-	float:left;
-	margin-right: 30px;
-
+  float: left;
+  margin-right: 30px;
 }
 
 .computer-img {
   width: 25%;
   border-radius: 50%;
-	float: right;
-	margin-left: 30px;
+  float: right;
+  margin-left: 30px;
 }
