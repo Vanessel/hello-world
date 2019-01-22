@@ -4,11 +4,11 @@ body{
 	text-align: center;
 }
 h1{
-	background-color: white;
+
 }
 h2{
 	width: 20%;
-	background-color: white;
+
 	margin-left: auto;
 	margin-right:auto; 
 }
@@ -18,30 +18,14 @@ h2{
 
 .container{
 	position: relative;
-	width: 700px;
+	width: 800px;
 }
 .top{
-	background-color: red;
-	width: 200px;
-	height: 200px;
-	position: absolute;
-	top:400px;
-	left:400px;
+
 }
 .middle{
-	background-color: blue;
-	width: 200px;
-	height: 200px;
-	position: absolute;
-	top:200px;
-	left:200px;
+
 }
 .bottom{
-	background-color: yellow;
-	width: 200px;
-	height: 200px;	
-	position: absolute;
 
-	top:0;
-	left:0;
 }
