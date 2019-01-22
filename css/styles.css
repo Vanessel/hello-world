@@ -10,7 +10,6 @@ h1 {
   font-size: 6.625rem;
   margin: 50px 0 15px 0;
   color: #66BFBF;
-  line-height: 2;
 }
 
 h2 {
@@ -30,7 +29,14 @@ h3 {
 a {
   color: #11999E;
 }
-
+p{  
+	line-height: 2;
+}
+hr{
+	border: dotted grey 5px;
+	border-bottom: none;
+	width: 4%;
+}
 .cloud-top {
   position: absolute;
 }
