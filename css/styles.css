@@ -11,7 +11,7 @@ h1 {
   font-size: 6.625rem;
   margin: 50px 0 15px 0;
 	color: #66BFBF;
-	line-height: 2rem;
+	line-height: 2;
 }
 
 h2 {
@@ -45,6 +45,16 @@ a{
 .skill-row{
 	margin: 100px auto 100px auto;
 	width: 50%;
+	text-align: left;
+	line-height: 2;
 }
 
 .bottom {}
+	
+.chilli-img{
+	width:25%;
+}
+
+.computer-img{
+	width:25%;
+}	
