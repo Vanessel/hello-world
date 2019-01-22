@@ -1,34 +1,36 @@
-body{
-	background-color: lightblue;
-	width: 800px;
-	text-align: center;
-	font-family: 'Ubuntu', sans-serif;
-}
-h1{
-font-family: 'ZCOOL KuaiLe', cursive;
-font-size: 5em;
-}
-h2{
-	width: 20%;
-
-	margin-left: auto;
-	margin-right:auto; 
-}
-.cloud-top{
-	position: absolute;
+body {
+  background-color: lightblue;
+  width: 800px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
 }
 
-.container{
-	position: relative;
-	width: 800px;
+h1 {
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 6.625rem;
+  margin-top: 50px;
 }
-.top{
 
+h2 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+	font-size: 2.5rem;
 }
-.middle-container{
-	margin-top: 20px;
 
+.cloud-top {
+  position: absolute;
 }
-.bottom{
 
+.container {
+  position: relative;
+  width: 800px;
 }
+
+.top {}
+
+.middle-container {
+  margin-top: 20px;
+}
+
+.bottom {}
