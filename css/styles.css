@@ -19,7 +19,7 @@ h2 {
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 }
 
 h3 {
@@ -53,7 +53,7 @@ hr{
   margin: 100px 0 100px 0;
 }
 .intro{
-	width: 80%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -64,7 +64,13 @@ hr{
   line-height: 2;
 }
 
-.bottom {}
+.bottom {
+	margin: 100px 0 100px 0;
+	
+}
+.contact-me{
+	width: 50%;
+}
 
 .chilli-img {
   width: 25%;
@@ -89,12 +95,12 @@ hr{
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Ubuntu', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-	margin-top: 25px;
+
 }
 
 .btn:hover {
