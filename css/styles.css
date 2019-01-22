@@ -32,6 +32,9 @@ a {
   margin: 10px 20px;
   text-decoration: none;
 }
+a:hover {
+  color: #EAF6F6;
+}
 
 p {
   line-height: 2;
@@ -85,6 +88,11 @@ hr {
 .contact-message {
   /* width: 40%; */
   margin: 40px auto 60px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 .chilli-img {
