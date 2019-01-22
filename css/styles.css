@@ -5,6 +5,10 @@ body{
 h1{
 	
 }
+.container{
+	position: relative;
+	width: 700px;
+}
 .top{
 	background-color: red;
 	width: 200px;
