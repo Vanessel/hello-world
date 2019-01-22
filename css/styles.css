@@ -8,8 +8,8 @@ body{
 	width: 200px;
 	height: 200px;
 	position: absolute;
-	top:0;
-	left:0;
+	top:400px;
+	left:400px;
 }
 .middle{
 	background-color: blue;
@@ -24,6 +24,7 @@ body{
 	width: 200px;
 	height: 200px;	
 	position: absolute;
-	top:400px;
-	left:400px;
+
+	top:0;
+	left:0;
 }
