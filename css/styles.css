@@ -71,8 +71,9 @@ hr{
 	
 }
 .contact-me{
-	margin: 100px 0 100px 0;
+	margin: 100px auto 100px auto;
 	width: 50%;
+	
 }
 
 .chilli-img {
